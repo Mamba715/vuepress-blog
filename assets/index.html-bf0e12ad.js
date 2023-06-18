@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"首页","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"首页","description":"肖俊杰的个人网站"},"headers":[],"git":{"updatedTime":1679643882000,"contributors":[{"name":"mamba","email":"mamba715@163.com","commits":1}]},"filePathRelative":"index.md"}');export{a as data};
